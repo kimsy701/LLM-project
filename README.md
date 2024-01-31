@@ -11,5 +11,5 @@
 ### 3. ChatBot2(OpenAI api) + Langchain DB
 #### 외부 문서: http
 #### 설명 더 자세한 chatbot
-#####(FI)(LangChain)Chatbot_OpenAIAPI_RAG.ipynb
+##### (FI)(LangChain)Chatbot_OpenAIAPI_RAG.ipynb
 
